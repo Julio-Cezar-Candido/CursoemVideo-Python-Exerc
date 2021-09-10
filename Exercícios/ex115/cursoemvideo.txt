@@ -1,0 +1,6 @@
+Gabriel;24
+Júlio;23
+Maria;23
+Adriano;36
+Iron;42
+Cezar;15
